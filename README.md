@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there! My name is Ivan (he/him) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm a Biomedical Engineering Student at the University of Waterloo who's really just excited about tech. I'm interested software development, robotics, and honestly just about everything in the tech field 😅! Currently working on completing more projects to expand and hone my skills.
+
+You can reach me at [Linkeding](https://www.linkedin.com/in/ivan-yu-0a84a5195/) or my email [i7yu@uwaterloo.ca](i7yu@uwaterloo.ca)
+
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanyu327&show_icons=true&count_private=true&theme=dark)
 
 <!--
 **IvanYu327/IvanYu327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
