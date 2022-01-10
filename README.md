@@ -2,7 +2,7 @@
 
 I'm a Biomedical Engineering Student at the University of Waterloo who's really just excited about tech. I'm interested software development, robotics, and honestly just about everything in the tech field 😅! Currently working on completing more projects to expand and hone my skills.
 
-You can reach me at [Linkeding](https://www.linkedin.com/in/ivan-yu-0a84a5195/) or my email [i7yu@uwaterloo.ca](i7yu@uwaterloo.ca)
+You can reach me at [Linkeding](https://www.linkedin.com/in/ivan-yu-0a84a5195/) or my email [i7yu@uwaterloo.ca](mailto:i7yu@uwaterloo.ca?subject=Hey%20I%20saw%20your%20GitHub%20and...)
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanyu327&show_icons=true&count_private=true&theme=dark)
 
