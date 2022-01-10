@@ -1,6 +1,6 @@
 # Hi there! My name is Ivan (he/him) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Biomedical Engineering Student at the University of Waterloo who's really just excited about tech. I'm interested software development, robotics, and honestly just about everything in the tech field 😅! Currently working on completing more projects to expand and hone my skills.
+I'm a Biomedical Engineering Student at the University of Waterloo who's really just excited about tech. I'm interested software engineering, robotics, biotech and honestly just about everything in the tech field 😅! Currently working on completing more projects to expand and hone my skills.
 
 You can reach me at [Linkeding](https://www.linkedin.com/in/ivan-yu-0a84a5195/) or my email [i7yu@uwaterloo.ca](mailto:i7yu@uwaterloo.ca?subject=Hey%20I%20saw%20your%20GitHub%20and...)
 
