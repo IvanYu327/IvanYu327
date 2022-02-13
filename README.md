@@ -8,7 +8,7 @@ I'm a Biomedical Engineering Student at the University of Waterloo who's really 
 
 <!-- 📝 Check out my work, blog, and more about my projects at on my [**website**](https://ivanyu327.github.io/ivan-yu/) (Currently under development) -->
 
-📱 You can reach me at [**Linkedin**](https://www.linkedin.com/in/ivan-yu-0a84a5195/) or my [**i7yu@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca?subject=Hey%20I%20saw%20your%20GitHub%20and...)
+📱 You can reach me at [**Linkedin**](https://www.linkedin.com/in/ivan-yu-0a84a5195/) or [**i7yu@uwaterloo.ca**](mailto:i7yu@uwaterloo.ca?subject=Hey%20I%20saw%20your%20GitHub%20and...)
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanyu327&show_icons=true&count_private=true&theme=dark)
 
