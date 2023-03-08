@@ -1,6 +1,6 @@
 # Hi there! My name is Ivan (he/him) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Biomedical Engineering Student at the University of Waterloo who's really just excited about tech. I'm interested in software engineering, robotics, biotech! Currently working on completing more projects to expand and hone my skills, feel free to check out my projects below and please reach out if you have questions 😁!
+I'm a Computer Science student at the University of Waterloo! Currently working on completing more projects to expand and hone my skills, feel free to check out my projects below and please reach out if you wanna chat 😁!
 
 🏫 **Computer Science** at the University of Waterloo
 
