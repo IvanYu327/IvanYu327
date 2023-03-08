@@ -2,9 +2,9 @@
 
 I'm a Biomedical Engineering Student at the University of Waterloo who's really just excited about tech. I'm interested in software engineering, robotics, biotech! Currently working on completing more projects to expand and hone my skills, feel free to check out my projects below and please reach out if you have questions 😁!
 
-🏫 **Biomedical Engineering** at the University of Waterloo
+🏫 **Computer Science** at the University of Waterloo
 
-⚡ In my free time, I am an avid rock climber and Tetris player
+⚡ In my free time, I am an avid rock climber and competitive Tetris player
 
 <!-- 📝 Check out my work, blog, and more about my projects at on my [**website**](https://ivanyu327.github.io/ivan-yu/) (Currently under development) -->
 
