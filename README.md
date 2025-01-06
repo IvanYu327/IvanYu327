@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Waterloo! Currently working 
 
 🏫 **Computer Science** at the University of Waterloo
 
-⚡ In my free time, I am an avid rock climber and competitive Tetris player
+⚡ In my free time, I am an avid rock climber and LEGO enthusiast
 
 <!-- 📝 Check out my work, blog, and more about my projects at on my [**website**](https://ivanyu327.github.io/ivan-yu/) (Currently under development) -->
 
